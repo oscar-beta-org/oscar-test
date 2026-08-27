@@ -7,4 +7,3 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 | Maintainer        | GitHub ID                                               | Affiliation |
 | ----------------- | ------------------------------------------------------- | ----------- |
 | Shreya1           | [shreyah963](https://github.com/shreyah963)             | Amazon      |
-| Shreya2           | [shreyabhatta836](https://github.com/shreyabhatta836)   | Amazon      |
